@@ -10,6 +10,7 @@ When filing issues, please consider using this sample [bug filing template](http
 The best way to get your bug fixed is to be as detailed as you can be about the problem.
 Providing steps to reproduce the problem is ideal.
 Here are questions you can answer before you file a bug to make sure you're not missing any important information.
+cambio quince
 
 1. Did you read the [documentation](https://github.com/Microsoft/PartsUnlimited/tree/master/docs)?
 2. Did you include the snippet of broken code in the issue?
