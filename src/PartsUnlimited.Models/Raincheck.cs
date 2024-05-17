@@ -6,6 +6,7 @@ namespace PartsUnlimited.Models
     public class Raincheck
     {
         public int RaincheckId { get; set; }
+        //prueba nueve
 
         public string Name { get; set; }
 
@@ -22,3 +23,4 @@ namespace PartsUnlimited.Models
         public virtual Store IssuerStore { get; set; }
     }
 }
+//prueba ocho
